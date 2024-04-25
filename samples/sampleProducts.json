@@ -1,0 +1,72 @@
+[
+  {
+    "name": "",
+    "description": "",
+    "imageName": "",
+    "regularPrice": "",
+    "specialPrice": "",
+    "new": "",
+    "hint": "",
+    "owner": ""
+  },
+  {
+    "name": "",
+    "description": "",
+    "imageName": "",
+    "regularPrice": "",
+    "specialPrice": "",
+    "new": "",
+    "hint": "",
+    "owner": ""
+  },
+  {
+    "name": "Orchidee",
+    "description": "",
+    "imageName": "",
+    "regularPrice": "8",
+    "specialPrice": "5",
+    "new": "",
+    "hint": "Verschiedene Farben",
+    "owner": ""
+  },
+  {
+    "name": "",
+    "description": "",
+    "imageName": "",
+    "regularPrice": "16",
+    "specialPrice": "12",
+    "new": "false",
+    "hint": "",
+    "owner": ""
+  },
+  {
+    "name": "",
+    "description": "",
+    "imageName": "",
+    "regularPrice": "",
+    "specialPrice": "16",
+    "new": "",
+    "hint": "",
+    "owner": ""
+  },
+  {
+    "name": "",
+    "description": "",
+    "imageName": "",
+    "regularPrice": "",
+    "specialPrice": "",
+    "new": "true",
+    "hint": "",
+    "owner": ""
+  },
+  {
+    "name": "",
+    "description": "",
+    "imageName": "",
+    "regularPrice": "",
+    "specialPrice": "",
+    "new": "",
+    "hint": "",
+    "owner": ""
+  }
+]

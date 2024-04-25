@@ -1,0 +1,117 @@
+[
+  {
+    "shopName": "Concept Store",
+    "urlName": "conceptstore",
+    "description": "",
+    "ownerName": "",
+    "email": "",
+    "color1": "",
+    "color2": "",
+    "windowImageList": "",
+    "productList": [
+      {
+        "name": "",
+        "description": "",
+        "imageName": "",
+        "regularPrice": "",
+        "specialPrice": "",
+        "new": "",
+        "hint": "",
+        "owner": ""
+      },
+      {
+        "name": "",
+        "description": "",
+        "imageName": "",
+        "regularPrice": "16",
+        "specialPrice": "12",
+        "new": "false",
+        "hint": "",
+        "owner": ""
+      },
+      {
+        "name": "",
+        "description": "",
+        "imageName": "",
+        "regularPrice": "",
+        "specialPrice": "16",
+        "new": "",
+        "hint": "",
+        "owner": ""
+      }
+    ]
+  },
+  {
+    "shopName": "Wintergarten",
+    "urlName": "wintergarten",
+    "description": "",
+    "ownerName": "",
+    "email": "",
+    "color1": "",
+    "color2": "",
+    "windowImageList": "",
+    "productList": [
+      {
+        "name": "Orchidee",
+        "description": "",
+        "imageName": "",
+        "regularPrice": "8",
+        "specialPrice": "5",
+        "new": "",
+        "hint": "Verschiedene Farben",
+        "owner": ""
+      },
+      {
+        "name": "",
+        "description": "",
+        "imageName": "",
+        "regularPrice": "16",
+        "specialPrice": "12",
+        "new": "false",
+        "hint": "",
+        "owner": ""
+      },
+      {
+        "name": "",
+        "description": "",
+        "imageName": "",
+        "regularPrice": "",
+        "specialPrice": "16",
+        "new": "",
+        "hint": "",
+        "owner": ""
+      },
+      {
+        "name": "",
+        "description": "",
+        "imageName": "",
+        "regularPrice": "",
+        "specialPrice": "",
+        "new": "true",
+        "hint": "",
+        "owner": ""
+      },
+      {
+        "name": "",
+        "description": "",
+        "imageName": "",
+        "regularPrice": "",
+        "specialPrice": "",
+        "new": "",
+        "hint": "",
+        "owner": ""
+      }
+    ]
+  },
+  {
+    "shopName": "",
+    "urlName": "",
+    "description": "",
+    "ownerName": "",
+    "email": "",
+    "color1": "",
+    "color2": "",
+    "windowImageList": "",
+    "productList": ""
+  }
+]
