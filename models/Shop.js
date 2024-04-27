@@ -4,7 +4,7 @@ const { productSchema } = require("./Product.js");
 
 const shopSchema = new Schema({
   shopName: { type: String, required: true },
-  urlName: { type: String },
+  urlName: { type: String, required: true },
   ownerName: { type: String, required: true },
   email: { type: String, required: true },
   description: { type: String },

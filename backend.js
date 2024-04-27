@@ -4,8 +4,7 @@ const cors = require("cors");
 const backend = express();
 const port = 3002;
 
-const dotenv = require("dotenv");
-const connect = require("./lib/connect.js");
+require("dotenv").config();
 
 const index = require("./routes");
 

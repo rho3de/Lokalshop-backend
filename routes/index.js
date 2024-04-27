@@ -8,10 +8,16 @@ const r = Router({ mergeParams: true });
 const productRoute = require("./products.route.js");
 
 r.get("/:shopName", async (req, res) => {
-  await connect();
-  const shopName = req.params;
-  const shop = await Shop.findOne({ urlName: shopName });
-  res.json(shop);
+  try {
+    await connect();
+    const { shopName } = req.params;
+    const shop = await Shop.findOne({ urlName: shopName });
+    res.json(shop);
+  } catch (error) {
+    console.log("Es gibt einen Fehler");
+    console.log(error.message);
+    res.json({ message: "GET-Problem" });
+  }
 });
 
 r.post("/", async (req, res) => {
